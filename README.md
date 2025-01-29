@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ghimire-aayush
-- 👀 I’m interested in utilising what I've learned and making some small projects with it
-- 🌱 I’m currently learning some data science libraries such as numphy and pandas using python
+- 🌱 I’m currently a student of Data Science and Machine Learning
 - 📫 How to reach me: via email: ghimireaayush011@gmail.com
